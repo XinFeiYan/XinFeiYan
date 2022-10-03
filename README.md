@@ -1,5 +1,7 @@
 ### Hi there 👋
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xinfeiyan)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xinfeiyan)](https://github.com/anuraghazra/github-readme-stats)<br>
+正在学习使用github的小菜鸡
+
 <!--
 **XinFeiYan/xinfeiyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
